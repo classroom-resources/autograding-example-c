@@ -1,6 +1,7 @@
 # Autograding Example: C
 This example project is written in C, and tested with make and bash scripts.
 
+### The assignment
 The tests are currently failing because we're printing the wrong string. Correcting the `printf` will fix the tests.
 
 ### Setup command
